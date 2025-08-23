@@ -1,157 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="CHILE",13 C
 http://181.78.208.254:8080/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="CHILE",13 C (op2)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="CHILE",Canal 13 HD
 http://145.239.68.223:9999/chile/hls_kr/793523.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="CHILE",Canal 13 HD (op2)
 http://38.7.195.43:8000/play/a02k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="CHILE",Canal 24 Horas HD
 http://181.78.208.254:8080/play/a0fv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="CHILE",Canal 24 Horas HD (op2)
 http://179.57.171.184:8000/play/a00c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="CHILE",TVN HD
 http://181.78.208.254:8080/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="CHILE",TVN HD (op2)
 https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega2.png" group-title="NACIONALES",Mega2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega2.png" group-title="CHILE",Mega2
 http://179.57.171.184:8000/play/a00e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="NACIONALES",Mega
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="CHILE",Mega
 http://179.57.171.184:8000/play/a00d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="NACIONALES",Mega (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="CHILE",Mega (op2)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/megaficcion.png" group-title="NACIONALES",Megaficcion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/megaficcion.png" group-title="CHILE",Megaficcion
 http://179.57.171.184:8000/play/a00f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/meganoticias.png" group-title="NACIONALES",Meganoticias
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/meganoticias.png" group-title="CHILE",Meganoticias
 http://179.57.171.184:8000/play/a00j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="NACIONALES",Chilevision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="CHILE",Chilevision
 http://145.239.68.223:9999/chile/hls_kr/793442.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="NACIONALES",Chilevision (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="CHILE",Chilevision (op2)
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvn3.png" group-title="NACIONALES",TVN3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvn3.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal9.png" group-title="NACIONALES",Canal 9 Bío Bí­o TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal9.png" group-title="CHILE",Canal 9 Bío Bí­o TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/biobiotv.png" group-title="NACIONALES",Bío Bí­o TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/biobiotv.png" group-title="CHILE",Bío Bí­o TV
 http://38.7.204.226:8010/play/a2mp/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="NACIONALES",La Red
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="CHILE",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="NACIONALES",La Red (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="CHILE",La Red (op2)
 http://45.232.176.29:8000/play/a02j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ucv.png" group-title="NACIONALES",UCV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ucv.png" group-title="CHILE",UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/chvd.png" group-title="NACIONALES",CHV Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/chvd.png" group-title="CHILE",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/d13.png" group-title="NACIONALES",D13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/d13.png" group-title="CHILE",D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnncl.png" group-title="NACIONALES",CNN Chile
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnncl.png" group-title="CHILE",CNN Chile
 http://179.56.190.187:8000/play/a0za/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak.png" group-title="NACIONALES",Teletrak
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak.png" group-title="CHILE",Teletrak
 http://170.79.235.139:8010/play/a2c6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV + 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="CHILE",TV + 
 http://45.230.48.105:28000/play/2006
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV + (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="CHILE",TV + (op2)
 http://45.184.87.142:8000/play/a00k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ntv.png" group-title="NACIONALES",NTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ntv.png" group-title="CHILE",NTV
 http://181.78.208.254:8080/play/a0d8/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/rectv.png" group-title="NACIONALES",REC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/rectv.png" group-title="CHILE",REC TV
 http://38.7.195.44:8000/play/a02j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/t13.png" group-title="NACIONALES",T13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/t13.png" group-title="CHILE",T13
 http://38.7.195.44:8000/play/a02k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/etctv.png" group-title="NACIONALES",ETC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/etctv.png" group-title="CHILE",ETC TV
 http://38.7.195.44:8000/play/a02n
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13rea.png" group-title="NACIONALES", Canal 13 Realities
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13tel.png" group-title="NACIONALES", Canal 13 Teleseries
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13cul.png" group-title="NACIONALES", Canal 13 Cultura
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvu.png" group-title="NACIONALES", TVU
-https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn2.png" group-title="DEPORTES",ESPN 2 HD
-http://181.78.208.254:8080/play/a09r/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn3.png" group-title="DEPORTES",ESPN 3 HD
-http://181.78.208.254:8080/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn4.png" group-title="DEPORTES",ESPN 4HD
-http://181.78.208.254:8080/play/a0c6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn5.png" group-title="DEPORTES",ESPN 5HD
-http://181.78.208.254:8080/play/a0cf/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7.png" group-title="DEPORTES",ESPN 7HD
-http://181.78.208.254:8080/play/a0el/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnpremium.png" group-title="DEPORTES",ESPN Premium HD
-http://181.78.208.254:8080/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn6.png.png" group-title="DEPORTES",ESPN 6
-http://181.78.208.254:8080/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goltv.png" group-title="DEPORTES",Gol TV
-http://181.78.208.254:8080/play/a0ed/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsportspremium.png" group-title="DEPORTES",TNT SPORTS HD
-http://181.78.208.254:8080/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsports.png" group-title="DEPORTES",TNT SPORTS
-http://207.248.3.81:8081/play/a0oz
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tycsports.png" group-title="DEPORTES",TyC Sports
-http://181.78.208.254:8080/play/a0eg/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/winports+.png" group-title="DEPORTES",Win Sports+ HD
-http://181.78.208.254:8080/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/a&ehd.png" group-title="CINE Y SERIES",A&E HD
-http://181.78.208.254:8080/play/a0dr/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/amc.png" group-title="CINE Y SERIES",AMC
-http://181.78.208.254:8080/play/a0e2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/atresseries.png" group-title="CINE Y SERIES",ATRES SERIES
-http://181.78.208.254:8080/play/a0d5/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/axn.png" group-title="CINE Y SERIES",AXN HD
-http://181.78.208.254:8080/play/a0fq/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/babytv.png" group-title="CINE Y SERIES",Baby TV
-http://181.78.208.254:8080/play/a03f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/caracolhd.png" group-title="CINE Y SERIES",Caracol HD
-http://181.78.208.254:8080/play/a0c8/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinecanal.png" group-title="CINE Y SERIES",Cinecanal HD
-http://181.78.208.254:8080/play/a0b8/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinemaxhd.png" group-title="CINE Y SERIES",Cinemax HD
-http://181.78.208.254:8080/play/a0eb/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/citytv.png" group-title="CINE Y SERIES",City TV
-http://181.78.208.254:8080/play/a0bw/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/clover.png" group-title="CINE Y SERIES",Clover
-http://181.78.208.254:8080/play/a0cq/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cristovision.png" group-title="CINE Y SERIES",Cristovisión
-http://181.78.208.254:8080/play/a0as/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/dhe.png" group-title="CINE Y SERIES",DHE HD
-http://181.78.208.254:8080/play/a05s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/dwespañol.png" group-title="CINE Y SERIES",DW Español
-http://181.78.208.254:8080/play/a0bz/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/depeliculas.png" group-title="CINE Y SERIES",De Pelicula
-http://181.78.208.254:8080/play/a0ei/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/distritocomedia.png" group-title="CINE Y SERIES",Distrito Comedia
-http://181.78.208.254:8080/play/01/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/entertainmenttv.png" group-title="CINE Y SERIES",E! Entertainment TV
-http://181.78.208.254:8080/play/a0cp/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/fxhd.png" group-title="CINE Y SERIES",FX HD
-http://181.78.208.254:8080/play/a0cb/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goldenedge.png" group-title="CINE Y SERIES",Golden Edge
-http://181.78.208.254:8080/play/a0ej/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/kanalddrama.png" group-title="CINE Y SERIES",Kanal D Drama
-http://181.78.208.254:8080/play/a0bx/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/lasestrellashd.png" group-title="CINE Y SERIES",Las Estrellas HD
-http://181.78.208.254:8080/play/a0f5/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/paramount.png" group-title="CINE Y SERIES",Paramount HD
-http://181.78.208.254:8080/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/starchannelhd.png" group-title="CINE Y SERIES",STAR CHANNEL HD
-http://181.78.208.254:8080/play/a0cs/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sonyhd.png" group-title="CINE Y SERIES",Sony HD
-http://181.78.208.254:8080/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/spacehd.png" group-title="CINE Y SERIES",Space HD
-http://181.78.208.254:8080/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/studiouniversalhd.png" group-title="CINE Y SERIES",Studio Universal HD
-http://181.78.208.254:8080/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tcm.png" group-title="CINE Y SERIES",TCM
-http://181.78.208.254:8080/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tnthd.png" group-title="CINE Y SERIES",TNT HD
-http://181.78.208.254:8080/play/a09e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tnt.png" group-title="CINE Y SERIES",TNT HD
-http://181.78.208.254:8080/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntseries.png" group-title="CINE Y SERIES",TNT Series HD
-http://207.248.3.81:8081/play/a0pt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntnovelas.png" group-title="CINE Y SERIES",TNT Novelas HD
-http://181.78.208.254:8080/play/a0fh/index.m3u8
-
+...
