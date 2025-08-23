@@ -1,7 +1,5 @@
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="CHILE",13 C
-http://181.78.208.254:8080/play/a0d1/index.m3u8
+http://45.160.12.200:8008/play/067/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="CHILE",13 C (op2)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="CHILE",Canal 13 HD
