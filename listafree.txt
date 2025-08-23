@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C
 http://181.78.208.254:8080/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13.png" group-title="NACIONALES",Canal 13
@@ -58,17 +57,17 @@ http://38.7.204.234:8010/play/a2n6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn4.png" group-title="DEPORTES",ESPN 4HD
 http://38.7.204.234:8010/play/a2n5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn5.png" group-title="DEPORTES",ESPN 5HD
-http://181.78.208.254:8080/play/a0cf/index.m3u8
+http://38.7.204.234:8010/play/a2p5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7.png" group-title="DEPORTES",ESPN 7HD
-http://181.78.208.254:8080/play/a0el/index.m3u8
+http://38.7.204.234:8010/play/a2jk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnpremium.png" group-title="DEPORTES",ESPN Premium HD
-http://181.78.208.254:8080/play/a0c9/index.m3u8
+http://38.7.204.234:8010/play/a2lj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn6.png.png" group-title="DEPORTES",ESPN 6
 http://181.78.208.254:8080/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goltv.png" group-title="DEPORTES",Gol TV
 http://181.78.208.254:8080/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsportspremium.png" group-title="DEPORTES",TNT SPORTS HD
-http://181.78.208.254:8080/play/a008/index.m3u8
+http://38.7.204.234:8010/play/a2ql/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsports.png" group-title="DEPORTES",TNT SPORTS
 http://207.248.3.81:8081/play/a0oz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tycsports.png" group-title="DEPORTES",TyC Sports
