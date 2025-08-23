@@ -3,7 +3,7 @@ http://45.160.12.200:8008/play/067/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="CHILE",13 C (op2)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="CHILE",Canal 13 HD
-http://38.7.204.234:8010/play/a2nz/index.m3u8
+http://145.239.68.223:9999/chile/hls_kr/793523.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="CHILE",Canal 13 HD (op2)
 http://38.7.195.43:8000/play/a02k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="CHILE",Canal 24 Horas HD
@@ -11,7 +11,7 @@ http://181.78.208.254:8080/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="CHILE",Canal 24 Horas HD (op2)
 http://179.57.171.184:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="CHILE",TVN HD
-http://181.78.208.254:8080/play/a00j/index.m3u8
+http://38.7.204.234:8010/play/a2og/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="CHILE",TVN HD (op2)
 https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega2.png" group-title="CHILE",Mega2
