@@ -13,7 +13,7 @@ http://179.57.171.184:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="CHILE",TVN HD
 http://38.7.204.234:8010/play/a2og/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="CHILE",TVN HD (op2)
-https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+http://38.7.204.234:8010/play/a2kd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega2.png" group-title="CHILE",Mega2
 http://179.57.171.184:8000/play/a00e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="CHILE",Mega
