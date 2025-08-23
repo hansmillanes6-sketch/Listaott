@@ -9,7 +9,7 @@ http://181.78.208.254:8080/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntn24horas.png" group-title="NACIONALES",NTN 24 Horas
 http://181.78.208.254:8080/play/a0dc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD
-http://181.78.208.254:8080/play/a00j/index.m3u8
+http://38.7.204.234:8010/play/a2og/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/24horas.png" group-title="NACIONALES",24horas
 http://179.57.171.184:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega2.png" group-title="NACIONALES",mega2
