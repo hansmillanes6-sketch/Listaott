@@ -30,36 +30,35 @@ http://179.57.171.184:8000/play/a00j
 http://145.239.68.223:9999/chile/hls_kr/793442.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="CHILE",Chilevision (op2)
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvn3.png" group-title="CHILE",TVN3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvn3.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal9.png" group-title="CHILE",Canal 9 Bío Bí­o TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal9.png" group-title="CHILE",Canal 9 Bío Bí­o TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/biobiotv.png" group-title="CHILE",Bío Bí­o TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/biobiotv.png" group-title="CHILE",Bío Bí­o TV
 http://38.7.204.226:8010/play/a2mp/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="CHILE",La Red
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/lared.png" group-title="CHILE",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="CHILE",La Red (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/lared.png" group-title="CHILE",La Red (op2)
 http://45.232.176.29:8000/play/a02j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ucv.png" group-title="CHILE",UCV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ucv.png" group-title="CHILE",UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/chvd.png" group-title="CHILE",CHV Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chvd.png" group-title="CHILE",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/d13.png" group-title="CHILE",D13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/d13.png" group-title="CHILE",D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnncl.png" group-title="CHILE",CNN Chile
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cnncl.png" group-title="CHILE",CNN Chile
 http://179.56.190.187:8000/play/a0za/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak.png" group-title="CHILE",Teletrak
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/teletrak.png" group-title="CHILE",Teletrak
 http://170.79.235.139:8010/play/a2c6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="CHILE",TV + 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvmas.png" group-title="CHILE",TV + 
 http://45.230.48.105:28000/play/2006
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="CHILE",TV + (op2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvmas.png" group-title="CHILE",TV + (op2)
 http://45.184.87.142:8000/play/a00k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ntv.png" group-title="CHILE",NTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntv.png" group-title="CHILE",NTV
 http://181.78.208.254:8080/play/a0d8/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/rectv.png" group-title="CHILE",REC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/rectv.png" group-title="CHILE",REC TV
 http://38.7.195.44:8000/play/a02j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/t13.png" group-title="CHILE",T13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/t13.png" group-title="CHILE",T13
 http://38.7.195.44:8000/play/a02k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/etctv.png" group-title="CHILE",ETC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/etctv.png" group-title="CHILE",ETC TV
 http://38.7.195.44:8000/play/a02n
-...
