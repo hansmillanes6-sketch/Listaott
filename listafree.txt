@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C
 http://181.78.208.254:8080/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13.png" group-title="NACIONALES",Canal 13
@@ -141,15 +142,15 @@ http://181.78.208.254:8080/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/warnerchannelhd.png" group-title="CINE Y SERIES",Warner Channel HD
 http://181.78.208.254:8080/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryh&h.png" group-title="CULTURA",Discovery H&H HD
-http://181.78.208.254:8080/play/a0ba/index.m3u8
+http://38.7.204.234:8010/play/a2kf/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryhd.png" group-title="CULTURA",Discovery HD
-http://181.78.208.254:8080/play/a0b9/index.m3u8
+http://38.7.204.234:8010/play/a2oz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryscience.png" group-title="CULTURA",Discovery Science
 http://181.78.208.254:8080/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoverytheaterhd.png" group-title="CULTURA",Discovery Theater HD
-http://181.78.208.254:8080/play/a0c5/index.m3u8
+http://38.7.204.234:8010/play/a2kg/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryturbo.png" group-title="CULTURA",Discovery Turbo
-http://181.78.208.254:8080/play/a0cn/index.m3u8
+http://38.7.204.234:8010/play/a2pm/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryworldhd.png" group-title="CULTURA",Discovery World HD
 http://181.78.208.254:8080/play/a0b7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/elgourtmet.png" group-title="CULTURA",El Gourmet
@@ -169,7 +170,7 @@ http://181.78.208.254:8080/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntv.png" group-title="CULTURA",NTV
 http://181.78.208.254:8080/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/natgeohd.png" group-title="CULTURA",Nat Geo HD
-http://181.78.208.254:8080/play/a0fk/index.m3u8
+http://38.7.204.234:8010/play/a2ni/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sunchannelhd.png" group-title="CULTURA",Sun Channel HD
 http://181.78.208.254:8080/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonnetwork.png" group-title="INFANTILES",Cartoon Network
