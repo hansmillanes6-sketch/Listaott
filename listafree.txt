@@ -76,13 +76,13 @@ http://38.7.204.234:8010/play/a2md/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/winports+.png" group-title="DEPORTES",Win Sports+ HD
 http://38.7.204.234:8010/play/a2o5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/a&ehd.png" group-title="CINE Y SERIES",A&E HD
-http://181.78.208.254:8080/play/a0dr/index.m3u8
+http://181.78.192.238:8000/play/a1s1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/amc.png" group-title="CINE Y SERIES",AMC
 http://181.78.208.254:8080/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/atresseries.png" group-title="CINE Y SERIES",ATRES SERIES
 http://181.78.208.254:8080/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/axn.png" group-title="CINE Y SERIES",AXN HD
-http://181.78.208.254:8080/play/a0fq/index.m3u8
+http://181.78.192.238:8000/play/a1sp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/babytv.png" group-title="CINE Y SERIES",Baby TV
 http://181.78.208.254:8080/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/caracolhd.png" group-title="CINE Y SERIES",Caracol HD
@@ -114,7 +114,7 @@ http://181.78.208.254:8080/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/kanalddrama.png" group-title="CINE Y SERIES",Kanal D Drama
 http://181.78.208.254:8080/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/lasestrellashd.png" group-title="CINE Y SERIES",Las Estrellas HD
-http://181.78.208.254:8080/play/a0f5/index.m3u8
+http://181.78.192.238:8000/play/a1tn/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/paramount.png" group-title="CINE Y SERIES",Paramount HD
 http://181.78.208.254:8080/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/starchannelhd.png" group-title="CINE Y SERIES",STAR CHANNEL HD
@@ -122,11 +122,11 @@ http://181.78.208.254:8080/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sonyhd.png" group-title="CINE Y SERIES",Sony HD
 http://181.78.192.238:8000/play/a1so/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/spacehd.png" group-title="CINE Y SERIES",Space HD
-http://181.78.208.254:8080/play/a007/index.m3u8
+http://181.78.192.238:8000/play/a1m0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/studiouniversalhd.png" group-title="CINE Y SERIES",Studio Universal HD
-http://181.78.208.254:8080/play/a0fc/index.m3u8
+http://181.78.192.238:8000/play/a1rm/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tcm.png" group-title="CINE Y SERIES",TCM
-http://181.78.208.254:8080/play/a0d7/index.m3u8
+http://181.78.192.238:8000/play/a154/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tnthd.png" group-title="CINE Y SERIES",TNT HD
 http://181.78.208.254:8080/play/a09e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tnt.png" group-title="CINE Y SERIES",TNT HD
@@ -134,7 +134,7 @@ http://181.78.208.254:8080/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntseries.png" group-title="CINE Y SERIES",TNT Series HD
 http://207.248.3.81:8081/play/a0pt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntnovelas.png" group-title="CINE Y SERIES",TNT Novelas HD
-http://181.78.208.254:8080/play/a0fh/index.m3u8
+http://181.78.192.238:8000/play/a1hx/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/universalchannel.png" group-title="CINE Y SERIES",UNIVERSAL CHANNEL HD
 http://181.78.208.254:8080/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/usa.png" group-title="CINE Y SERIES",USA
