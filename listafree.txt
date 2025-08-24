@@ -62,7 +62,7 @@ http://38.7.204.234:8010/play/a2p5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7.png" group-title="DEPORTES",ESPN 7HD
 http://38.7.204.234:8010/play/a2jk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnpremium.png" group-title="DEPORTES",ESPN Premium HD
-http://38.7.204.234:8010/play/a2lj/index.m3u8
+http://170.79.235.130:8010/play/a2lj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn6.png.png" group-title="DEPORTES",ESPN 6
 http://38.7.204.234:8010/play/a2l4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goltv.png" group-title="DEPORTES",Gol TV
