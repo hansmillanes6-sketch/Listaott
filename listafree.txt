@@ -91,8 +91,6 @@ http://181.78.208.254:8080/play/a05s/index.m3u8
 http://181.78.208.254:8080/play/a0bz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/depeliculas.png" group-title="CINE Y SERIES",De Pelicula
 http://181.78.208.254:8080/play/a0ei/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/distritocomedia.png" group-title="CINE Y SERIES",Distrito Comedia
-http://181.78.208.254:8080/play/01/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/entertainmenttv.png" group-title="CINE Y SERIES",E! Entertainment TV
 http://181.78.208.254:8080/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/fxhd.png" group-title="CINE Y SERIES",FX HD
