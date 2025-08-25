@@ -85,8 +85,6 @@ http://170.79.235.138:8010/play/a2p0/index.m3u8
 http://181.78.192.238:8000/play/a1rk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/citytv.png" group-title="CINE Y SERIES",City TV
 http://181.78.208.254:8080/play/a0bw/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cristovision.png" group-title="CINE Y SERIES",Cristovisión
-http://181.78.192.238:8000/play/a0zo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/dhe.png" group-title="CINE Y SERIES",DHE HD
 http://181.78.208.254:8080/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/dwespañol.png" group-title="CINE Y SERIES",DW Español
