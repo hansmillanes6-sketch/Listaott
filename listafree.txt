@@ -7,8 +7,6 @@ http://38.7.204.234:8010/play/a2qk/index.m3u8
 http://38.7.204.234:8010/play/a2nz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD
 http://38.7.204.234:8010/play/a2p8/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntn24horas.png" group-title="NACIONALES",NTN 24 Horas
-http://181.78.208.254:8080/play/a0dc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD
 http://38.7.204.234:8010/play/a2kd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/24horas.png" group-title="NACIONALES",24horas
