@@ -27,8 +27,6 @@ http://170.79.235.138:8010/play/a2lh/index.m3u8
 http://181.78.208.254:8080/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/axn.png" group-title="CINE Y SERIES",AXN HD
 http://170.79.235.138:8010/play/a2nk/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/caracolhd.png" group-title="CINE Y SERIES",Caracol HD
-http://181.78.208.254:8080/play/a0c8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinecanal.png" group-title="CINE Y SERIES",Cinecanal HD
 http://38.7.204.234:8010/play/a2p0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hboplushd.png" group-title="CINE Y SERIES",HBO PLUS HD
