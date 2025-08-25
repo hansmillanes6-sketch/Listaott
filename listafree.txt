@@ -136,11 +136,11 @@ http://181.78.208.254:8080/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoverytheaterhd.png" group-title="CULTURA",Discovery Theater HD
 http://38.7.204.234:8010/play/a2kg/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryturbo.png" group-title="CULTURA",Discovery Turbo
-http://38.7.204.234:8010/play/a2pm/index.m3u8
+http://38.7.204.226:8010/play/a2pm/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryworldhd.png" group-title="CULTURA",Discovery World HD
 http://181.78.192.238:8000/play/a1nu/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/elgourtmet.png" group-title="CULTURA",El Gourmet
-http://181.78.208.254:8080/play/a0d2/index.m3u8
+http://38.7.204.226:8010/play/a2la/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/eurochannel.png" group-title="CULTURA",Eurochannel
 http://181.78.208.254:8080/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/europaeuropa.png" group-title="CULTURA",Europa Europa
@@ -158,7 +158,7 @@ http://181.78.208.254:8080/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/natgeohd.png" group-title="CULTURA",Nat Geo HD
 http://38.7.204.234:8010/play/a2ni/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sunchannelhd.png" group-title="CULTURA",Sun Channel HD
-http://181.78.208.254:8080/play/a0fj/index.m3u8
+http://38.7.204.226:8010/play/a2oy/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonnetwork.png" group-title="INFANTILES",Cartoon Network
 http://170.79.235.130:8010/play/a2gq/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonito.png" group-title="INFANTILES",Cartoonito
