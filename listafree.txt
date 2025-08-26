@@ -88,13 +88,13 @@ http://181.78.208.254:8080/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/fxhd.png" group-title="CINE Y SERIES",FX HD
 http://38.7.204.226:8010/play/a2p3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goldenedge.png" group-title="CINE Y SERIES",Golden Edge
-http://181.78.208.254:8080/play/a0ej/index.m3u8
+http://200.106.63.37:8000/play/a09h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/kanalddrama.png" group-title="CINE Y SERIES",Kanal D Drama
 http://170.79.235.138:8010/play/a2lz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/lasestrellashd.png" group-title="CINE Y SERIES",Las Estrellas HD
 http://181.78.192.238:8000/play/a1tn/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/paramount.png" group-title="CINE Y SERIES",Paramount HD
-http://181.78.208.254:8080/play/a0bb/index.m3u8
+http://200.106.63.37:8000/play/a095
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/starchannelhd.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 http://170.79.235.130:8010/play/a2p4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sonyhd.png" group-title="CINE Y SERIES",Sony HD
@@ -161,3 +161,5 @@ http://170.79.235.138:8010/play/a2p2/index.m3u8
 http://38.7.204.226:8010/play/a2k7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/BIO_BIO_TV.png" group-title="NACIONALES",BIO BIO TV
 http://38.7.204.226:8010/play/a2mp/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Movistar_Deportes.png" group-title="DEPORTES",Movistar Deportes
+http://200.106.63.37:8000/play/a07e
