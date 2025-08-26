@@ -23,6 +23,8 @@ http://179.57.171.184:8000/play/a00j
 http://207.248.3.81:8081/play/a0ez
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/amc.png" group-title="CINE Y SERIES",AMC
 http://170.79.235.138:8010/play/a2lh/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/atresseries.png" group-title="CINE Y SERIES",ATRES SERIES
+http://181.78.208.254:8080/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/axn.png" group-title="CINE Y SERIES",AXN HD
 http://170.79.235.138:8010/play/a2nk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinecanal.png" group-title="CINE Y SERIES",Cinecanal HD
@@ -163,4 +165,17 @@ http://181.78.208.254:8080/play/a0f4/index.m3u8
 http://181.78.208.254:8080/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/funbox.png" group-title="INFANTILES",FUNBOX
 http://145.239.68.223:9999/chile/hls_kr/793352.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cablenoticias.png" group-title="NOTICIAS",CableNoticias
+http://181.78.208.254:8080/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canalinstitucional.png" group-title="NOTICIAS",Canal Institucional
+http://181.78.208.254:8080/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canaltro.png" group-title="NOTICIAS",Canal TRO
+http://181.78.208.254:8080/play/a0da/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/telepacifico.png" group-title="NOTICIAS",Telepacifico
+http://181.78.208.254:8080/play/a0c1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/telesur.png" group-title="NOTICIAS",Telesur
+http://181.78.208.254:8080/play/a0bs/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ntn24horas.png" group-title="NOTICIAS",NTN 24 Horas
+http://181.78.208.254:8080/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/BIO_BIO_TV.png" group-title="NACIONALES",BIO BIO TV
+http://38.7.204.226:8010/play/a2mp/index.m3u8
