@@ -24,7 +24,7 @@ http://207.248.3.81:8081/play/a0ez
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/amc.png" group-title="CINE Y SERIES",AMC
 http://170.79.235.138:8010/play/a2lh/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/atresseries.png" group-title="CINE Y SERIES",ATRES SERIES
-http://181.78.208.254:8080/play/a0d5/index.m3u8
+http://209.45.101.155:8000/play/a02a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/axn.png" group-title="CINE Y SERIES",AXN HD
 http://170.79.235.138:8010/play/a2nk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinecanal.png" group-title="CINE Y SERIES",Cinecanal HD
@@ -82,9 +82,9 @@ http://181.78.192.238:8000/play/a1rk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/dhe.png" group-title="CINE Y SERIES",DHE HD
 http://38.7.204.226:8010/play/a2ou/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/depeliculas.png" group-title="CINE Y SERIES",De Pelicula
-http://181.78.208.254:8080/play/a0ei/index.m3u8
+http://209.45.101.155:8000/play/a04i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/entertainmenttv.png" group-title="CINE Y SERIES",E! Entertainment TV
-http://181.78.208.254:8080/play/a0cp/index.m3u8
+http://209.45.101.155:8000/play/a03w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/fxhd.png" group-title="CINE Y SERIES",FX HD
 http://38.7.204.226:8010/play/a2p3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goldenedge.png" group-title="CINE Y SERIES",Golden Edge
