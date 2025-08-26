@@ -161,3 +161,5 @@ http://38.7.204.226:8010/play/a2k7/index.m3u8
 http://38.7.204.226:8010/play/a2mp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Movistar_Deportes.png" group-title="DEPORTES",Movistar Deportes
 http://200.106.63.37:8000/play/a07e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Sony_Movies.png" group-title="CINE Y SERIES",Sony Movies
+http://181.176.18.213:18000/play/a0gh/index.m3u8
