@@ -161,7 +161,5 @@ http://181.78.208.254:8080/play/a0cz/index.m3u8
 http://170.79.235.138:8010/play/a2p2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/disneyjunior.png" group-title="INFANTILES",Disney Junior
 http://38.7.204.226:8010/play/a2k7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/funbox.png" group-title="INFANTILES",FUNBOX
-http://145.239.68.223:9999/chile/hls_kr/793352.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/BIO_BIO_TV.png" group-title="NACIONALES",BIO BIO TV
 http://38.7.204.226:8010/play/a2mp/index.m3u8
