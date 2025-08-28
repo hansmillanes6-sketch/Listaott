@@ -62,7 +62,7 @@ http://38.7.204.234:8010/play/a2l4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goltv.png" group-title="DEPORTES",Gol TV
 http://181.78.192.238:8000/play/a1tg/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsportspremium.png" group-title="DEPORTES",TNT SPORTS HD
-http://170.79.235.130:8010/play/a2oj/index.m3u8
+http://179.63.6.17:9000/play/a0aa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntsports.png" group-title="DEPORTES",TNT SPORTS
 http://207.248.3.81:8081/play/a0oz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tycsports.png" group-title="DEPORTES",TyC Sports
@@ -88,7 +88,7 @@ http://209.45.101.155:8000/play/a03w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/fxhd.png" group-title="CINE Y SERIES",FX HD
 http://38.7.204.226:8010/play/a2p3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/goldenedge.png" group-title="CINE Y SERIES",Golden Edge
-http://179.63.6.17:9000/play/a0cw
+http://200.106.63.37:8000/play/a09h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/kanalddrama.png" group-title="CINE Y SERIES",Kanal D Drama
 http://170.79.235.138:8010/play/a2lz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/lasestrellashd.png" group-title="CINE Y SERIES",Las Estrellas HD
