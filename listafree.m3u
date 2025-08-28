@@ -46,15 +46,15 @@ http://181.78.192.238:8000/play/a1lt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hboxtreme.png" group-title="CINE Y SERIES",HBO XTREME
 http://181.78.192.238:8000/play/a1jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn2.png" group-title="DEPORTES",ESPN 2 HD
-http://38.7.204.234:8010/play/a2hd/index.m3u8
+http://179.57.171.189:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn3.png" group-title="DEPORTES",ESPN 3 HD
 http://179.57.171.189:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn4.png" group-title="DEPORTES",ESPN 4HD
-http://38.7.204.234:8010/play/a2n5/index.m3u8
+http://179.57.171.189:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn5.png" group-title="DEPORTES",ESPN 5HD
-http://38.7.204.234:8010/play/a2p5/index.m3u8
+http://179.57.171.189:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7.png" group-title="DEPORTES",ESPN 7HD
-http://38.7.204.234:8010/play/a2jk/index.m3u8
+http://179.57.171.189:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espnpremium.png" group-title="DEPORTES",ESPN Premium HD
 http://179.57.171.189:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_6.png" group-title="DEPORTES",ESPN 6
