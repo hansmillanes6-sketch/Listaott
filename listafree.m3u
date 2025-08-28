@@ -173,3 +173,5 @@ http://181.78.192.238:8000/play/a1ve/index.m3u8
 http://181.78.192.238:8000/play/a1ho/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Fox_Sports_2.png" group-title="DEPORTES",Fox Sports 2
 http://181.78.192.238:8000/play/a1vj/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Fox_Sports_2_(op2).png" group-title="DEPORTES",Fox Sports 2 (op2)
+http://181.78.192.238:8000/play/a1vm/index.m3u8
