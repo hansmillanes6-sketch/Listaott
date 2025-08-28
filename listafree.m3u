@@ -167,3 +167,5 @@ http://200.106.63.37:8000/play/a07e
 http://181.176.18.213:18000/play/a0gh/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Espn.png" group-title="DEPORTES",Espn
 http://190.43.59.172:4000/play/a0ia/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Fox_Sports.png" group-title="DEPORTES",Fox Sports
+http://181.78.192.238:8000/play/a1ve/index.m3u8
