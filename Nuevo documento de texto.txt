@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CristiTV M3U</title>
+</head>
+<body>
+    <p>Lista M3U de CristiTV</p>
+</body>
+</html>
