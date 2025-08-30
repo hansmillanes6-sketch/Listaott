@@ -20,11 +20,11 @@ http://179.57.171.184:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="NACIONALES",chilevision
 http://179.57.171.189:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/amc.png" group-title="CINE Y SERIES",AMC
-http://170.79.235.138:8010/play/a2lh/index.m3u8
+http://45.229.188.1:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/atresseries.png" group-title="CINE Y SERIES",ATRES SERIES
 http://181.78.208.254:8080/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/axn.png" group-title="CINE Y SERIES",AXN HD
-http://170.79.235.138:8010/play/a2nk/index.m3u8
+http://45.229.188.1:8000/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinecanal.png" group-title="CINE Y SERIES",Cinecanal HD
 http://181.78.201.70:8000/play/a0v5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hboplushd.png" group-title="CINE Y SERIES",HBO PLUS HD
@@ -38,7 +38,7 @@ http://181.78.192.238:8000/play/a10n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbomundi.png" group-title="CINE Y SERIES",HBO MUNDI
 http://181.78.192.238:8000/play/a137/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbo.png" group-title="CINE Y SERIES",HBO
-http://170.79.235.138:8010/play/a2n9/index.m3u8
+http://45.229.188.1:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbosignaturehd.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
 http://181.78.192.238:8000/play/a1lt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hboxtreme.png" group-title="CINE Y SERIES",HBO XTREME
@@ -74,7 +74,7 @@ http://181.78.208.254:8080/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/axn.png" group-title="CINE Y SERIES",AXN HD
 http://181.78.192.238:8000/play/a1sp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinecanal.png" group-title="CINE Y SERIES",Cinecanal HD
-http://170.79.235.138:8010/play/a2p0/index.m3u8
+http://45.229.188.1:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cinemaxhd.png" group-title="CINE Y SERIES",Cinemax HD
 http://181.78.192.238:8000/play/a1rk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/dhe.png" group-title="CINE Y SERIES",DHE HD
@@ -114,7 +114,7 @@ http://181.78.201.70:8000/play/a0u2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/usa.png" group-title="CINE Y SERIES",USA
 http://170.79.235.138:8010/play/a2mf/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/warnerchannelhd.png" group-title="CINE Y SERIES",Warner Channel HD
-http://170.79.235.138:8010/play/a2p1/index.m3u8
+http://45.229.188.1:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryh&h.png" group-title="CULTURA",Discovery H&H HD
 http://179.57.171.189:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryhd.png" group-title="CULTURA",Discovery HD
