@@ -148,13 +148,13 @@ http://186.67.41.230:9000/play/a02w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sunchannelhd.png" group-title="CULTURA",Sun Channel HD
 http://186.67.41.230:9000/play/a0al
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonnetwork.png" group-title="INFANTILES",Cartoon Network
-http://170.79.235.130:8010/play/a2gq/index.m3u8
+http://186.67.41.230:9000/play/a0as
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonito.png" group-title="INFANTILES",Cartoonito
 http://209.45.101.155:8000/play/a03r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoverykidshd.png" group-title="INFANTILES",Discovery Kids HD
 http://181.78.192.238:8000/play/a1rj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/disneyhd.png" group-title="INFANTILES",Disney HD
-http://170.79.235.138:8010/play/a2p2/index.m3u8
+http://186.67.41.230:9000/play/a06n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/disneyjunior.png" group-title="INFANTILES",Disney Junior
 http://38.7.204.226:8010/play/a2k7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/BIO_BIO_TV.png" group-title="NACIONALES",BIO BIO TV
