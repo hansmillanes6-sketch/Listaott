@@ -155,8 +155,6 @@ http://181.78.192.238:8000/play/a1rj/index.m3u8
 http://186.67.41.230:9000/play/a06n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/disneyjunior.png" group-title="INFANTILES",Disney Junior
 http://181.78.201.70:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Movistar_Deportes.png" group-title="DEPORTES",Movistar Deportes
-http://200.106.63.37:8000/play/a07e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Sony_Movies.png" group-title="CINE Y SERIES",Sony Movies
 http://181.176.18.213:18000/play/a0gh/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Espn.png" group-title="DEPORTES",Espn
