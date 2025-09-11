@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13_C.png" group-title="NACIONALES",13 C
 http://179.57.171.189:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13.png" group-title="NACIONALES",Canal 13
 http://209.45.101.155:8000/play/a01w
@@ -166,4 +166,5 @@ http://200.106.63.37:8000/play/a07e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Sony_Movies.png" group-title="CINE Y SERIES",Sony Movies
 http://181.176.18.213:18000/play/a0gh/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Espn.png" group-title="DEPORTES",Espn
+
 http://190.43.59.172:4000/play/a0ia/index.m3u8
