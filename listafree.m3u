@@ -156,7 +156,7 @@ http://181.78.201.70:8000/play/a0hn/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Sony_Movies.png" group-title="CINE Y SERIES",Sony Movies
 http://181.176.18.213:18000/play/a0gh/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Espn.png" group-title="DEPORTES",Espn
-http://38.250.127.17:9800/play/a05t/index.m3u8
+http://177.128.113.1:8000/play/a07u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Fox_Sports.png" group-title="DEPORTES",Fox Sports
 http://181.78.192.238:8000/play/a1ve/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Fox_Sports_(op2).png" group-title="DEPORTES",Fox Sports (op2)
