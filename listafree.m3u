@@ -47,7 +47,7 @@ http://181.78.192.238:8000/play/a1jm/index.m3u8
 http://179.57.171.189:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn3.png" group-title="DEPORTES",ESPN 3 HD
 http://179.57.171.189:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn4.png" group-title="DEPORTES",ESPN 4HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_4HD.png" group-title="DEPORTES",ESPN 4HD
 http://179.57.171.189:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn5.png" group-title="DEPORTES",ESPN 5HD
 http://179.57.171.189:8000/play/a01u/index.m3u8
