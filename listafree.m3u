@@ -43,7 +43,7 @@ http://45.229.188.1:8000/play/a09d/index.m3u8
 http://181.78.192.238:8000/play/a1lt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hboxtreme.png" group-title="CINE Y SERIES",HBO XTREME
 http://181.78.192.238:8000/play/a1jm/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn2.png" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_2_HD.png" group-title="DEPORTES",ESPN 2 HD
 http://179.57.171.189:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_3_HD.png" group-title="DEPORTES",ESPN 3 HD
 http://179.57.171.189:8000/play/a022/index.m3u8
