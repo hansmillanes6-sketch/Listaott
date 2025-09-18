@@ -119,7 +119,7 @@ http://179.57.171.189:8000/play/a027/index.m3u8
 http://186.67.41.230:9000/play/a07d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Discovery_World_HD.png" group-title="CULTURA",Discovery World HD
 http://181.78.192.238:8000/play/a1nu/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/elgourtmet.png" group-title="CULTURA",El Gourmet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/El_Gourmet.png" group-title="CULTURA",El Gourmet
 http://186.67.41.230:9000/play/a07x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/eurochannel.png" group-title="CULTURA",Eurochannel
 http://181.78.208.254:8080/play/a03n/index.m3u8
