@@ -39,7 +39,7 @@ http://181.78.192.238:8000/play/a10n/index.m3u8
 http://181.78.192.238:8000/play/a137/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/HBO.png" group-title="CINE Y SERIES",HBO
 http://45.229.188.1:8000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbosignaturehd.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/HBO_SIGNATURE_HD.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
 http://181.78.192.238:8000/play/a1lt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hboxtreme.png" group-title="CINE Y SERIES",HBO XTREME
 http://181.78.192.238:8000/play/a1jm/index.m3u8
