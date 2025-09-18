@@ -73,7 +73,7 @@ http://177.128.113.1:8000/play/a07m
 http://181.78.192.238:8000/play/a1rk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/DHE_HD.png" group-title="CINE Y SERIES",DHE HD
 http://190.235.206.106:9070/play/a0jz/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/depeliculas.png" group-title="CINE Y SERIES",De Pelicula
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/De_Pelicula.png" group-title="CINE Y SERIES",De Pelicula
 http://209.45.101.155:8000/play/a04i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/entertainmenttv.png" group-title="CINE Y SERIES",E! Entertainment TV
 http://209.45.101.155:8000/play/a03w
