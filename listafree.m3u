@@ -58,7 +58,7 @@ http://179.57.171.189:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/TNT_SPORTS_HD.png" group-title="DEPORTES",TNT SPORTS HD
 http://38.252.213.17:8000/play/a0aa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/TNT_SPORTS.png" group-title="DEPORTES",TNT SPORTS
-http://216.155.91.47:8000/play/a0go/index.m3u8
+http://190.211.163.19:9997/play/a0bi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/TyC_Sports.png" group-title="DEPORTES",TyC Sports
 http://190.211.163.19:9997/play/a0fv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Win_Sports+_HD.png" group-title="DEPORTES",Win Sports+ HD
