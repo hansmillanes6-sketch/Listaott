@@ -91,7 +91,7 @@ http://181.78.192.238:8000/play/a1tn/index.m3u8
 http://190.235.206.106:9070/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/starchannelhd.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 http://181.78.201.70:8000/play/a0vf/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/sonyhd.png" group-title="CINE Y SERIES",Sony HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Sony_HD.png" group-title="CINE Y SERIES",Sony HD
 http://181.78.192.238:8000/play/a1so/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Space_HD.png" group-title="CINE Y SERIES",Space HD
 http://181.78.192.238:8000/play/a1m0/index.m3u8
