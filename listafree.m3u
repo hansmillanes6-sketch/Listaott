@@ -131,7 +131,7 @@ http://181.78.192.238:8000/play/a1lx/index.m3u8
 http://186.67.41.230:9000/play/a02w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Sun_Channel_HD.png" group-title="CULTURA",Sun Channel HD
 http://186.67.41.230:9000/play/a0al
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonnetwork.png" group-title="INFANTILES",Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Cartoon_Network.png" group-title="INFANTILES",Cartoon Network
 http://186.67.41.230:9000/play/a0as
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/cartoonito.png" group-title="INFANTILES",Cartoonito
 http://209.45.101.155:8000/play/a03r
