@@ -129,8 +129,6 @@ http://177.128.113.1:8000/play/a01k
 http://209.45.101.155:8000/play/a042
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/history2.png" group-title="CULTURA",History 2
 http://181.78.192.238:8000/play/a1lx/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/historychannel.png" group-title="CULTURA",History Channel
-http://181.78.192.238:8000/play/a1lx/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/lovenature.png" group-title="CULTURA",Love Nature
 http://181.78.208.254:8080/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/natgeohd.png" group-title="CULTURA",Nat Geo HD
