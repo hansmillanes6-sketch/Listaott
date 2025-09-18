@@ -81,7 +81,7 @@ http://190.235.206.106:9070/play/a0jz/index.m3u8
 http://209.45.101.155:8000/play/a04i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/entertainmenttv.png" group-title="CINE Y SERIES",E! Entertainment TV
 http://209.45.101.155:8000/play/a03w
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/fxhd.png" group-title="CINE Y SERIES",FX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/FX_HD.png" group-title="CINE Y SERIES",FX HD
 http://190.235.206.106:9070/play/a09u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Golden_Edge.png" group-title="CINE Y SERIES",Golden Edge
 http://190.235.206.106:9070/play/a0ed/index.m3u8
