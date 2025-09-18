@@ -115,7 +115,7 @@ http://177.128.113.1:8000/play/a07i
 http://190.235.206.106:9070/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Discovery_Theater_HD.png" group-title="CULTURA",Discovery Theater HD
 http://179.57.171.189:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryturbo.png" group-title="CULTURA",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Discovery_Turbo.png" group-title="CULTURA",Discovery Turbo
 http://186.67.41.230:9000/play/a07d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/discoveryworldhd.png" group-title="CULTURA",Discovery World HD
 http://181.78.192.238:8000/play/a1nu/index.m3u8
