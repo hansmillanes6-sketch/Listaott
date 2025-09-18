@@ -99,7 +99,7 @@ http://181.78.192.238:8000/play/a1m0/index.m3u8
 http://181.78.192.238:8000/play/a1rm/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tcm.png" group-title="CINE Y SERIES",TCM
 http://181.78.192.238:8000/play/a154/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tnthd.png" group-title="CINE Y SERIES",TNT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/TNT_HD.png" group-title="CINE Y SERIES",TNT HD
 http://181.78.201.70:8000/play/a0p5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tntseries.png" group-title="CINE Y SERIES",TNT Series HD
 http://207.248.3.81:8081/play/a0pt
