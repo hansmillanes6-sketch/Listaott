@@ -159,3 +159,5 @@ http://181.78.192.238:8000/play/a1v0/index.m3u8
 http://181.78.192.238:8000/play/a1v8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/T13.png" group-title="NACIONALES",T13
 http://38.7.195.44:8000/play/a02k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Teletrak.png" group-title="DEPORTES",Teletrak
+http://179.56.190.187:8000/play/a0zb/index.m3u8
