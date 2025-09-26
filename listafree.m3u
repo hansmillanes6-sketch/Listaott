@@ -42,19 +42,19 @@ http://181.78.192.238:8000/play/a1lt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/HBO_XTREME.png" group-title="CINE Y SERIES",HBO XTREME
 http://181.78.192.238:8000/play/a1jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_2_HD.png" group-title="DEPORTES",ESPN 2 HD
-http://179.57.171.189:8000/play/a002/index.m3u8
+http://177.128.113.1:8000/play/a04o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_3_HD.png" group-title="DEPORTES",ESPN 3 HD
-http://179.57.171.189:8000/play/a022/index.m3u8
+http://177.128.113.1:8000/play/a08k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_4HD.png" group-title="DEPORTES",ESPN 4HD
-http://179.57.171.189:8000/play/a017/index.m3u8
+http://177.128.113.1:8000/play/a07v
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn5.png" group-title="DEPORTES",ESPN 5HD
-http://179.57.171.189:8000/play/a01u/index.m3u8
+http://177.128.113.1:8000/play/a08c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7.png" group-title="DEPORTES",ESPN 7HD
-http://179.57.171.189:8000/play/a02u/index.m3u8
+http://177.128.113.1:8000/play/a05h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_Premium_HD.png" group-title="DEPORTES",ESPN Premium HD
 http://207.248.3.81:8081/play/a0mg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_6.png" group-title="DEPORTES",ESPN 6
-http://179.57.171.189:8000/play/a01o/index.m3u8
+http://177.128.113.1:8000/play/a086
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/TNT_SPORTS_HD.png" group-title="DEPORTES",TNT SPORTS HD
 http://38.7.195.44:8000/play/a0e7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/TNT_SPORTS.png" group-title="DEPORTES",TNT SPORTS
