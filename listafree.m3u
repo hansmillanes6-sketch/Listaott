@@ -132,7 +132,7 @@ http://186.67.41.230:9000/play/a02w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Sun_Channel_HD.png" group-title="CULTURA",Sun Channel HD
 http://186.67.41.230:9000/play/a0al
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Cartoon_Network.png" group-title="INFANTILES",Cartoon Network
-http://186.67.41.230:9000/play/a0as
+http://190.211.163.19:9997/play/cartoon
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Cartoonito.png" group-title="INFANTILES",Cartoonito
 http://209.45.101.155:8000/play/a03r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/Discovery_Kids_HD.png" group-title="INFANTILES",Discovery Kids HD
