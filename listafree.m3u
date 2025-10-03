@@ -47,9 +47,9 @@ http://177.128.113.1:8000/play/a04o
 http://177.128.113.1:8000/play/a08k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_4HD.png" group-title="DEPORTES",ESPN 4HD
 http://177.128.113.1:8000/play/a07v
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_5HD.png" group-title="DEPORTES",ESPN 5HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn5.png" group-title="DEPORTES",ESPN 5HD
 http://177.128.113.1:8000/play/a08c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_7HD.png" group-title="DEPORTES",ESPN 7HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/espn7.png" group-title="DEPORTES",ESPN 7HD
 http://177.128.113.1:8000/play/a05h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/ESPN_Premium_HD.png" group-title="DEPORTES",ESPN Premium HD
 http://45.160.12.253:8000/play/209
