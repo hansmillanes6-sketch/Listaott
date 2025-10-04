@@ -11,7 +11,7 @@ http://181.78.192.238:8000/play/a10i/index.m3u8
 http://179.57.171.184:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ozztev/imagenes/main/mega2.png" group-title="NACIONALES",mega2
 http://179.57.171.184:8000/play/a00e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ozztev-/imagenes/main/mega.png" group-title="NACIONALES",mega
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ozztev/imagenes/main/mega.png" group-title="NACIONALES",mega
 http://179.57.171.184:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ozztev/imagenes/main/megaficcion.png" group-title="NACIONALES",megaficcion
 http://179.57.171.184:8000/play/a00f
